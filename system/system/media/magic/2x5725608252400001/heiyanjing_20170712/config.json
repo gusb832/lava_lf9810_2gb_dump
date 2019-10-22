@@ -1,0 +1,48 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1498546396657",
+      "name": "heiyanjing",
+      "type": "anim",
+      "subType": "face",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_190": "190"
+        },
+        "spine_name": "heiyanjing"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1499851877715",
+      "type": "mask",
+      "subType": "static",
+      "fps": "25",
+      "loop": "1",
+      "typemesh": "facemeshoutline",
+      "images": [
+        "hsyj3.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

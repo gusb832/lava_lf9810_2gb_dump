@@ -1,0 +1,51 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1",
+      "name": "w1",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone10_380": "380",
+          "bone11_190": "190",
+          "bone7_210": "210"
+        },
+        "spine_name": "mofashi_renlian"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "w2",
+      "name": "w2",
+      "fps": "60",
+      "loop": "1",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "mofashi_qj"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

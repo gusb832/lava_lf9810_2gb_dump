@@ -1,0 +1,27 @@
+
+mofashi_qj.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/HandL
+  rotate: true
+  xy: 923, 16
+  size: 437, 920
+  orig: 437, 920
+  offset: 0, 0
+  index: -1
+images/HandR
+  rotate: true
+  xy: 0, 0
+  size: 453, 921
+  orig: 453, 921
+  offset: 0, 0
+  index: -1
+images/QIU
+  rotate: false
+  xy: 1845, 164
+  size: 358, 289
+  orig: 358, 289
+  offset: 0, 0
+  index: -1

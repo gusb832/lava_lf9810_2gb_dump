@@ -1,0 +1,44 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.actionable_compatible_property.enabled=true
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+ro.production.release.mp=1
+ro.lava.project.branch=original
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+dalvik.vm.usejit=true
+dalvik.vm.usejitprofiles=true
+dalvik.vm.dexopt.secondary=true
+dalvik.vm.appimageformat=lz4
+pm.dexopt.first-boot=quicken
+pm.dexopt.boot=verify
+pm.dexopt.install=speed-profile
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.ab-ota=speed-profile
+pm.dexopt.inactive=verify
+pm.dexopt.shared=speed
+dalvik.vm.dex2oat-minidebuginfo=true
+debug.atrace.tags.enableflags=0
+ro.audio.usb.period_us=16000
+ro.mediatek.platform=MT6761
+ro.mediatek.version.branch=alps-mp-p0.mp1
+ro.mediatek.version.release=alps-mp-p0.mp1-V5.54_lavasz.p0mp1.k39tv1.64.bsp_P15
+ro.opa.eligible_device=true
+ro.setupwizard.mode=OPTIONAL
+ro.com.google.gmsversion=9_201902
+ro.com.android.mobiledata=true
+ro.base_build=noah
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Sat Jun 15 02:18:35 UTC 2019
+ro.bootimage.build.date.utc=1560565115
+ro.bootimage.build.fingerprint=LAVA/LF9810_2GB/LF9810_2GB:9/PPR1.180610.011/1559940560:user/release-keys
+persist.sys.usb.config=none

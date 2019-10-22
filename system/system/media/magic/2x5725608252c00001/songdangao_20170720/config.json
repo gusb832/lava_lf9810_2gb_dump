@@ -1,0 +1,119 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500526268506",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.25",
+      "adjust4": "0.2",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500526268514",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.25",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500526268535",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.25",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1499165505532",
+      "name": "f_dangao",
+      "type": "anim",
+      "subType": "face",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone3_190": "190"
+        },
+        "spine_name": "f_dangao"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500526318014",
+      "name": "g_dangao",
+      "type": "anim",
+      "subType": "screen",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone3_190": "190"
+        },
+        "spine_name": "g_dangao"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "mask1499070621299",
+      "type": "mask",
+      "subType": "static",
+      "fps": "25",
+      "loop": "1",
+      "typemesh": "facemeshoutline",
+      "images": [
+        "saihong4.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

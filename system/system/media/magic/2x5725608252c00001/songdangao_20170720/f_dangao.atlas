@@ -1,0 +1,13 @@
+
+f_dangao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hg
+  rotate: false
+  xy: 0, 0
+  size: 235, 185
+  orig: 235, 185
+  offset: 0, 0
+  index: -1

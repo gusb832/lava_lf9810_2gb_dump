@@ -1,0 +1,67 @@
+{
+"skeleton": {
+	"hash": "3wyiEdhS6TISOznXonQ2GEfIucY",
+	"spine": "3.5.43",
+	"width": 1167.59,
+	"height": 1256.79,
+	"images": "C:/Program Files (x86)/Spine/examples/haidishijie/haidishijie/"
+},
+"bones": [
+	{ "name": "root", "x": 1.07 },
+	{ "name": "touzhao_260", "parent": "root", "x": 20.53, "y": 445.8, "scaleX": 1.228, "scaleY": 1.228 }
+],
+"slots": [
+	{ "name": "touzhao2", "bone": "touzhao_260", "attachment": "touzhao" }
+],
+"skins": {
+	"default": {
+		"touzhao2": {
+			"touzhao": {
+				"type": "mesh",
+				"uvs": [ 0.8804, 0.26842, 0.86241, 0.71188, 0.72538, 0.91806, 0.42736, 0.99261, 0.17053, 0.88262, 0.07587, 0.69906, 0.03049, 0.34661, 0.19046, 0.16832, 0.45138, 0.07777, 0.66558, 0.14617 ],
+				"triangles": [ 5, 6, 7, 1, 9, 0, 9, 4, 5, 7, 8, 9, 9, 5, 7, 1, 4, 9, 1, 3, 4, 2, 3, 1 ],
+				"vertices": [ 460.66, 487.68, 440.58, -7.27, 287.64, -237.38, -44.98, -320.59, -331.63, -197.83, -437.28, 7.04, -487.93, 400.41, -309.38, 599.41, -18.16, 700.47, 220.9, 624.12 ],
+				"hull": 10,
+				"edges": [ 14, 16, 16, 18, 4, 2, 2, 0, 0, 18, 8, 10, 10, 12, 12, 14, 4, 6, 6, 8 ],
+				"width": 512,
+				"height": 512
+			}
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"touzhao_260": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 0.53 },
+					{ "time": 1.1667, "angle": -0.54 },
+					{ "time": 1.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": -7.5 },
+					{ "time": 1.1667, "x": 0, "y": -4.6 },
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

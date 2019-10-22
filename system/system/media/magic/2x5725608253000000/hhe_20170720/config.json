@@ -1,0 +1,179 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500536881373",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.25",
+      "adjust2": "0.4",
+      "adjust3": "0.2",
+      "adjust4": "0.3",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500536881379",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.07",
+      "y": "0.03",
+      "radius_x": "0.31",
+      "radius_y": "0.31",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500536881397",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.24",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.29",
+      "radius_y": "0.29",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1499249966986",
+      "name": "renlianhuoyan",
+      "type": "anim",
+      "subType": "face",
+      "fps": "60",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_240": "240"
+        },
+        "spine_name": "renlianhuoyan"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "mouthopen"
+        }
+      ]
+    },
+    {
+      "id": "w1500537216182",
+      "name": "f_h",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone16_380": "380",
+          "bone4_0": "0",
+          "bone6_190": "190"
+        },
+        "spine_name": "f_h"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1497341896301",
+      "name": "yun",
+      "type": "anim",
+      "subType": "screen",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "yun"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1499249971788",
+      "name": "g_hh",
+      "type": "anim",
+      "subType": "screen",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "g_hh"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500522943245",
+      "name": "quanjuhuoxian",
+      "type": "anim",
+      "subType": "screen",
+      "fps": "25",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "quanjuhuoxian"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "mouthopen"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1",
+  "prompt": [
+    {
+      "audio": "",
+      "image": "",
+      "action": "mouthopen",
+      "message": "Open your mouth"
+    }
+  ]
+}

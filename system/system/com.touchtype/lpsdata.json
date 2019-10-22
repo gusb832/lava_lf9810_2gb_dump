@@ -1,0 +1,9 @@
+[ {
+  "name" : "English (US)",
+  "locale" : "en_US",
+  "language" : "en",
+  "country" : "US",
+  "sha1" : "944f3181e8da33935cc3fc0b13c3eab55e480f63",
+  "version" : 315,
+  "archive" : "file:///system/com.touchtype/en_US.zip"
+} ]

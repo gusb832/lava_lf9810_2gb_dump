@@ -1,0 +1,125 @@
+
+renlianhuoyan.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo00
+  rotate: false
+  xy: 0, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo01
+  rotate: false
+  xy: 182, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo02
+  rotate: true
+  xy: 0, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo03
+  rotate: false
+  xy: 364, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo04
+  rotate: false
+  xy: 546, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo05
+  rotate: true
+  xy: 322, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo06
+  rotate: false
+  xy: 728, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo07
+  rotate: false
+  xy: 910, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo08
+  rotate: true
+  xy: 644, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo09
+  rotate: false
+  xy: 1092, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo10
+  rotate: false
+  xy: 1274, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo11
+  rotate: true
+  xy: 966, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo12
+  rotate: false
+  xy: 1456, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo13
+  rotate: true
+  xy: 1288, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo14
+  rotate: false
+  xy: 1638, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo15
+  rotate: false
+  xy: 1820, 182
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1
+huo16
+  rotate: true
+  xy: 1610, 0
+  size: 180, 320
+  orig: 180, 320
+  offset: 0, 0
+  index: -1

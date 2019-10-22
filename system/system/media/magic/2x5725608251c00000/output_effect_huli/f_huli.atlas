@@ -1,0 +1,41 @@
+
+f_huli.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: true
+  xy: 443, 146
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+e1
+  rotate: true
+  xy: 214, 46
+  size: 198, 227
+  orig: 198, 227
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 0, 18
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+hz1
+  rotate: false
+  xy: 214, 0
+  size: 107, 44
+  orig: 107, 44
+  offset: 0, 0
+  index: -1
+hz2
+  rotate: true
+  xy: 443, 32
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1

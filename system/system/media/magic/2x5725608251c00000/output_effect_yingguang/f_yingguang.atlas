@@ -1,0 +1,181 @@
+
+f_yingguang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b4
+  rotate: false
+  xy: 879, 144
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 713, 285
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+bz1
+  rotate: true
+  xy: 95, 22
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: true
+  xy: 713, 228
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: false
+  xy: 780, 44
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+e1
+  rotate: true
+  xy: 377, 352
+  size: 158, 204
+  orig: 158, 204
+  offset: 0, 0
+  index: -1
+e11
+  rotate: false
+  xy: 0, 105
+  size: 165, 203
+  orig: 165, 203
+  offset: 0, 0
+  index: -1
+e111
+  rotate: true
+  xy: 782, 352
+  size: 158, 190
+  orig: 158, 190
+  offset: 0, 0
+  index: -1
+e1111
+  rotate: true
+  xy: 172, 345
+  size: 165, 203
+  orig: 165, 203
+  offset: 0, 0
+  index: -1
+e11111
+  rotate: false
+  xy: 0, 310
+  size: 170, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+e2
+  rotate: true
+  xy: 583, 344
+  size: 166, 197
+  orig: 166, 197
+  offset: 0, 0
+  index: -1
+e22
+  rotate: true
+  xy: 172, 187
+  size: 156, 186
+  orig: 156, 186
+  offset: 0, 0
+  index: -1
+e222
+  rotate: false
+  xy: 326, 5
+  size: 144, 180
+  orig: 144, 180
+  offset: 0, 0
+  index: -1
+e2222
+  rotate: false
+  xy: 167, 0
+  size: 157, 185
+  orig: 157, 185
+  offset: 0, 0
+  index: -1
+e22222
+  rotate: true
+  xy: 782, 197
+  size: 153, 166
+  orig: 153, 166
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 360, 195
+  size: 148, 112
+  orig: 148, 112
+  offset: 0, 0
+  index: -1
+h11
+  rotate: true
+  xy: 474, 229
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+h111
+  rotate: false
+  xy: 472, 27
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1
+h1111
+  rotate: false
+  xy: 588, 136
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+h11111
+  rotate: true
+  xy: 692, 34
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 583, 230
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+h22
+  rotate: false
+  xy: 474, 129
+  size: 112, 98
+  orig: 112, 98
+  offset: 0, 0
+  index: -1
+h222
+  rotate: true
+  xy: 0, 0
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+h2222
+  rotate: false
+  xy: 588, 39
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+h22222
+  rotate: false
+  xy: 780, 100
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1

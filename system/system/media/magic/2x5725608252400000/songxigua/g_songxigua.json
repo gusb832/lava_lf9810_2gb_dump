@@ -1,0 +1,119 @@
+{
+"skeleton": { "hash": "Kh8LYGl+ulvXRF65hul+XnNI3qI", "spine": "3.5.37", "width": 720, "height": 1345.24, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "gua1", "parent": "root", "rotation": 10.47, "x": 0.59, "y": 53.48, "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "youshou", "parent": "root", "x": 181.77, "y": 36.76, "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "zuoshou", "parent": "root", "x": -184.57, "y": 30.91, "scaleX": 0.95, "scaleY": 0.95 }
+],
+"slots": [
+	{ "name": "gua1", "bone": "gua1", "attachment": "gua1" },
+	{ "name": "youshou", "bone": "youshou", "attachment": "youshou" },
+	{ "name": "zuoshou", "bone": "zuoshou", "attachment": "zuoshou" }
+],
+"skins": {
+	"default": {
+		"gua1": {
+			"gua1": { "x": -11.28, "y": 58.84, "scaleX": 1.37, "scaleY": 1.37, "rotation": -25.02, "width": 312, "height": 193 }
+		},
+		"youshou": {
+			"youshou": { "x": -33.56, "y": 24.31, "width": 143, "height": 125 }
+		},
+		"zuoshou": {
+			"zuoshou": { "x": 26.68, "y": 23.43, "width": 138, "height": 132 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"gua1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			},
+			"youshou": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			},
+			"zuoshou": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"gua1": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0, "curve": "stepped" },
+					{ "time": 1.8333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -21.24 },
+					{ "time": 1, "x": 0, "y": 243.98, "curve": "stepped" },
+					{ "time": 1.8333, "x": 0, "y": 243.98, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 243.98 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.74, "y": 0.74 },
+					{ "time": 1, "x": 1.321, "y": 1.321, "curve": "stepped" },
+					{ "time": 1.8333, "x": 1.321, "y": 1.321 },
+					{ "time": 2.3333, "x": 1.556, "y": 1.556 }
+				]
+			},
+			"zuoshou": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0, "curve": "stepped" },
+					{ "time": 1.8333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 29.05, "y": -3.68 },
+					{ "time": 1, "x": -52.52, "y": 230.78, "curve": "stepped" },
+					{ "time": 1.8333, "x": -52.52, "y": 230.78 },
+					{ "time": 2.3333, "x": -94.67, "y": 233.9 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.739, "y": 0.739 },
+					{ "time": 1, "x": 1.306, "y": 1.306, "curve": "stepped" },
+					{ "time": 1.8333, "x": 1.306, "y": 1.306 },
+					{ "time": 2.3333, "x": 1.538, "y": 1.538 }
+				]
+			},
+			"youshou": {
+				"rotate": [
+					{ "time": 0, "angle": 5.07 },
+					{ "time": 1, "angle": 0, "curve": "stepped" },
+					{ "time": 1.8333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -39.35, "y": -11.18 },
+					{ "time": 1, "x": 34.14, "y": 220.28, "curve": "stepped" },
+					{ "time": 1.8333, "x": 34.14, "y": 220.28 },
+					{ "time": 2.3333, "x": 68.48, "y": 215.59 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.739, "y": 0.739 },
+					{ "time": 1, "x": 1.306, "y": 1.306, "curve": "stepped" },
+					{ "time": 1.8333, "x": 1.306, "y": 1.306 },
+					{ "time": 2.3333, "x": 1.538, "y": 1.538 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+f_shuishou.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dalishuishou02
+  rotate: false
+  xy: 589, 0
+  size: 250, 211
+  orig: 250, 211
+  offset: 0, 0
+  index: -1
+dalishuishou03
+  rotate: false
+  xy: 589, 213
+  size: 250, 243
+  orig: 250, 243
+  offset: 0, 0
+  index: -1
+dalishuishou04
+  rotate: false
+  xy: 1093, 223
+  size: 250, 233
+  orig: 250, 233
+  offset: 0, 0
+  index: -1
+dalishuishou05
+  rotate: false
+  xy: 1345, 224
+  size: 250, 232
+  orig: 250, 232
+  offset: 0, 0
+  index: -1
+dalishuishou06
+  rotate: false
+  xy: 841, 216
+  size: 250, 240
+  orig: 250, 240
+  offset: 0, 0
+  index: -1
+dalishuishou07
+  rotate: false
+  xy: 1597, 230
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+dalishuishou08
+  rotate: false
+  xy: 267, 3
+  size: 250, 144
+  orig: 250, 144
+  offset: 0, 0
+  index: -1
+dalishuishou09
+  rotate: false
+  xy: 841, 80
+  size: 250, 134
+  orig: 250, 134
+  offset: 0, 0
+  index: -1
+dalishuishou10
+  rotate: true
+  xy: 1849, 206
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+dalishuishou11
+  rotate: false
+  xy: 1093, 126
+  size: 250, 95
+  orig: 250, 95
+  offset: 0, 0
+  index: -1
+dalishuishou12
+  rotate: false
+  xy: 1345, 143
+  size: 250, 79
+  orig: 250, 79
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 0, 149
+  size: 587, 307
+  orig: 587, 307
+  offset: 0, 0
+  index: -1
+yandou
+  rotate: false
+  xy: 0, 17
+  size: 265, 130
+  orig: 265, 130
+  offset: 0, 0
+  index: -1

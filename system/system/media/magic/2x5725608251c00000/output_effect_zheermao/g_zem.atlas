@@ -1,0 +1,34 @@
+
+g_zem.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei jing1
+  rotate: false
+  xy: 0, 168
+  size: 166, 292
+  orig: 166, 292
+  offset: 0, 0
+  index: -1
+bei jing2
+  rotate: false
+  xy: 336, 184
+  size: 153, 276
+  orig: 153, 276
+  offset: 0, 0
+  index: -1
+bei jing3
+  rotate: false
+  xy: 168, 168
+  size: 166, 292
+  orig: 166, 292
+  offset: 0, 0
+  index: -1
+bei jing4
+  rotate: true
+  xy: 0, 0
+  size: 166, 282
+  orig: 166, 282
+  offset: 0, 0
+  index: -1

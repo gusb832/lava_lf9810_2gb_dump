@@ -1,0 +1,62 @@
+
+f_laldui.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: false
+  xy: 875, 27
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+h11
+  rotate: false
+  xy: 508, 23
+  size: 180, 182
+  orig: 180, 182
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 690, 28
+  size: 177, 183
+  orig: 177, 183
+  offset: 0, 0
+  index: -1
+h22
+  rotate: false
+  xy: 326, 22
+  size: 180, 183
+  orig: 180, 183
+  offset: 0, 0
+  index: -1
+sy
+  rotate: true
+  xy: 1249, 101
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+sz
+  rotate: true
+  xy: 1432, 101
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 0, 0
+  size: 205, 324
+  orig: 205, 324
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 1056, 68
+  size: 191, 137
+  orig: 191, 137
+  offset: 0, 0
+  index: -1

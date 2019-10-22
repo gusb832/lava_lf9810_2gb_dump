@@ -1,0 +1,21 @@
+{
+"skeleton": { "hash": "Tk1HSC2/J5Xwhhi/ktUXIaU5In4", "spine": "3.5.37", "width": 720, "height": 1299.06, "images": "./送蛋糕/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone3_190", "parent": "root", "x": -143.67, "y": 739.26 },
+	{ "name": "hg", "parent": "bone3_190", "rotation": -9.42, "x": 70.43, "y": 321.82, "scaleX": 0.813, "scaleY": 0.813 }
+],
+"slots": [
+	{ "name": "hg", "bone": "hg", "attachment": "hg" }
+],
+"skins": {
+	"default": {
+		"hg": {
+			"hg": { "x": -34.56, "y": 36.81, "scaleX": 2.199, "scaleY": 2.199, "width": 235, "height": 185 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

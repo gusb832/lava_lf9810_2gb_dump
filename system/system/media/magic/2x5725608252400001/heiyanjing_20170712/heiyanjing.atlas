@@ -1,0 +1,55 @@
+
+heiyanjing.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yj1
+  rotate: false
+  xy: 0, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1
+images/yj2
+  rotate: false
+  xy: 482, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1
+images/yj3
+  rotate: false
+  xy: 964, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1
+images/yj4
+  rotate: false
+  xy: 1446, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1
+images/yj5
+  rotate: false
+  xy: 1928, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1
+images/yj6
+  rotate: false
+  xy: 2410, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1
+images/yj7
+  rotate: false
+  xy: 2892, 0
+  size: 480, 198
+  orig: 480, 198
+  offset: 0, 0
+  index: -1

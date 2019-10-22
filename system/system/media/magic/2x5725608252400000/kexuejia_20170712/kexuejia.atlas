@@ -1,0 +1,55 @@
+
+kexuejia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huzishang
+  rotate: false
+  xy: 501, 207
+  size: 310, 75
+  orig: 310, 75
+  offset: 0, 0
+  index: -1
+jingpian
+  rotate: false
+  xy: 501, 69
+  size: 139, 136
+  orig: 139, 136
+  offset: 0, 0
+  index: -1
+jingpianxiao
+  rotate: false
+  xy: 501, 1
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+jingpianyou
+  rotate: false
+  xy: 880, 335
+  size: 142, 140
+  orig: 142, 140
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 0, 0
+  size: 499, 475
+  orig: 499, 475
+  offset: 0, 0
+  index: -1
+xiaojingzi
+  rotate: false
+  xy: 642, 117
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 501, 284
+  size: 377, 191
+  orig: 377, 191
+  offset: 0, 0
+  index: -1

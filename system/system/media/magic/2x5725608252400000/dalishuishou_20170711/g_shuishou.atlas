@@ -1,0 +1,20 @@
+
+g_shuishou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lbs
+  rotate: false
+  xy: 0, 0
+  size: 477, 198
+  orig: 477, 198
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 479, 51
+  size: 147, 354
+  orig: 147, 354
+  offset: 0, 0
+  index: -1

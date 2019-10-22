@@ -1,0 +1,167 @@
+
+g_dangao.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 0, 693
+  size: 1238, 1280
+  orig: 1238, 1280
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 1240, 1588
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+c10
+  rotate: true
+  xy: 1240, 1655
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+c11
+  rotate: false
+  xy: 198, 293
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+c12
+  rotate: false
+  xy: 499, 569
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+c13
+  rotate: false
+  xy: 527, 632
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 113, 210
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 1437, 1923
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 399, 541
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 527, 607
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 1354, 1827
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 607, 674
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+c8
+  rotate: false
+  xy: 399, 511
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+c9
+  rotate: false
+  xy: 399, 599
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+cake
+  rotate: false
+  xy: 0, 323
+  size: 397, 368
+  orig: 397, 368
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 82, 80
+  size: 14, 60
+  orig: 14, 60
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 1334, 1718
+  size: 16, 63
+  orig: 16, 63
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 0, 0
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+hm1
+  rotate: false
+  xy: 1354, 1890
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+hm2
+  rotate: false
+  xy: 0, 58
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+hm3
+  rotate: false
+  xy: 113, 243
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1240, 1783
+  size: 112, 190
+  orig: 112, 190
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 0, 142
+  size: 111, 179
+  orig: 111, 179
+  offset: 0, 0
+  index: -1

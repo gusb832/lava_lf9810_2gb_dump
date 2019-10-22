@@ -1,0 +1,83 @@
+
+mofashi_renlian.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/H3
+  rotate: true
+  xy: 689, 410
+  size: 118, 763
+  orig: 118, 763
+  offset: 0, 0
+  index: -1
+images/H4
+  rotate: true
+  xy: 689, 318
+  size: 90, 765
+  orig: 90, 765
+  offset: 0, 0
+  index: -1
+images/H5
+  rotate: true
+  xy: 689, 821
+  size: 198, 795
+  orig: 198, 795
+  offset: 0, 0
+  index: -1
+images/H6
+  rotate: true
+  xy: 0, 99
+  size: 128, 718
+  orig: 128, 718
+  offset: 0, 0
+  index: -1
+images/H7
+  rotate: true
+  xy: 689, 664
+  size: 155, 740
+  orig: 155, 740
+  offset: 0, 0
+  index: -1
+images/H8
+  rotate: true
+  xy: 689, 530
+  size: 132, 739
+  orig: 132, 739
+  offset: 0, 0
+  index: -1
+images/MZ
+  rotate: false
+  xy: 0, 229
+  size: 687, 790
+  orig: 687, 790
+  offset: 0, 0
+  index: -1
+images/ZH
+  rotate: false
+  xy: 1486, 904
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+images/h1
+  rotate: true
+  xy: 689, 256
+  size: 60, 676
+  orig: 60, 676
+  offset: 0, 0
+  index: -1
+images/h2
+  rotate: true
+  xy: 0, 0
+  size: 97, 703
+  orig: 97, 703
+  offset: 0, 0
+  index: -1
+images/帽阴影
+  rotate: false
+  xy: 720, 124
+  size: 655, 130
+  orig: 655, 130
+  offset: 0, 0
+  index: -1

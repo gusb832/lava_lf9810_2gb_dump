@@ -1,0 +1,76 @@
+
+chishikat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cz
+  rotate: true
+  xy: 0, 0
+  size: 217, 312
+  orig: 217, 312
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 871, 345
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 314, 168
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 314, 132
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 571, 219
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 871, 370
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+g6
+  rotate: false
+  xy: 360, 191
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+guo
+  rotate: false
+  xy: 0, 219
+  size: 569, 276
+  orig: 569, 276
+  offset: 0, 0
+  index: -1
+hz
+  rotate: false
+  xy: 871, 411
+  size: 148, 84
+  orig: 148, 84
+  offset: 0, 0
+  index: -1
+mz
+  rotate: true
+  xy: 571, 249
+  size: 246, 298
+  orig: 246, 298
+  offset: 0, 0
+  index: -1

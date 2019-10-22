@@ -1,0 +1,27 @@
+
+g_hh.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiang
+  rotate: false
+  xy: 0, 0
+  size: 139, 920
+  orig: 139, 920
+  offset: 0, 0
+  index: -1
+youhong
+  rotate: false
+  xy: 141, 264
+  size: 75, 325
+  orig: 75, 325
+  offset: 0, 0
+  index: -1
+zuohong
+  rotate: false
+  xy: 141, 591
+  size: 94, 329
+  orig: 94, 329
+  offset: 0, 0
+  index: -1

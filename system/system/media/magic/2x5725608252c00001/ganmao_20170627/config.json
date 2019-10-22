@@ -1,0 +1,148 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "morph0",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.25",
+      "adjust2": "0.4",
+      "adjust3": "0.2",
+      "adjust4": "0.3"
+    },
+    {
+      "id": "w4",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.25",
+      "x": "0.05",
+      "y": "0.00",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w5",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.25",
+      "x": "0.00",
+      "y": "0.00",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w0",
+      "name": "w0",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone13_250": "250",
+          "bone14_190": "190",
+          "bone_290": "290"
+        },
+        "spine_name": "f_fashao"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "w2",
+      "name": "w2",
+      "fps": "60",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone14_190": "190"
+        },
+        "spine_name": "f_fs_cfh"
+      },
+      "triggeredBy": [
+        {
+          "category": "eyeblink"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "w1",
+      "name": "w1",
+      "fps": "60",
+      "loop": "1",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "g_fashao"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim",
+      "reactState": "0"
+    },
+    {
+      "id": "w1501231070966",
+      "name": "g_fs_cf",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "g_fs_cf"
+      },
+      "triggeredBy": [
+        {
+          "category": "mouthopen"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1",
+  "prompt": [
+    {
+      "image": "",
+      "audio": "",
+      "message": "Blink your eyes",
+      "action": "eyeblink"
+    }
+  ]
+}

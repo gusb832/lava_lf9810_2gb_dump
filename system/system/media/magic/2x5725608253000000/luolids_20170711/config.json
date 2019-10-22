@@ -1,0 +1,113 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask1499760303197",
+      "fps": "25",
+      "loop": "1",
+      "images": [
+        "luolidashu.png"
+      ],
+      "typemesh": "facemeshoutline",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1499760420605",
+      "index": "240",
+      "personid": "0",
+      "intensity": "1",
+      "x": "0.01",
+      "y": "0.01",
+      "radius_x": "0.93",
+      "radius_y": "0.76",
+      "xType": "0",
+      "yType": "0",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1499760457979",
+      "index": "130",
+      "personid": "0",
+      "intensity": "-0.5",
+      "x": "0.00",
+      "y": "0.00",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "1",
+      "type": "distortion"
+    },
+    {
+      "id": "w1499760463021",
+      "index": "320",
+      "personid": "0",
+      "intensity": "-0.5",
+      "x": "0.00",
+      "y": "0.00",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "1",
+      "type": "distortion"
+    },
+    {
+      "id": "w1499760544961",
+      "index": "390",
+      "personid": "0",
+      "intensity": "-0.3",
+      "x": "0.00",
+      "y": "0.19",
+      "radius_x": "1.02",
+      "radius_y": "0.70",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "1",
+      "type": "distortion"
+    },
+    {
+      "id": "w1499760371707",
+      "name": "maozi",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "r": "1",
+      "personid": "0",
+      "beforeFilter": "false",
+      "images": [
+        "maozi.png"
+      ],
+      "index": "390",
+      "h": [
+        "-0.00",
+        "0.49"
+      ],
+      "s": [
+        "3.87",
+        "3.87"
+      ],
+      "haveoccasion": "1",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

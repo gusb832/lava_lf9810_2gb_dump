@@ -1,0 +1,153 @@
+
+tt_cfq_tt.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizipao1
+  rotate: false
+  xy: 329, 17
+  size: 120, 96
+  orig: 120, 96
+  offset: 0, 0
+  index: -1
+bizipao2
+  rotate: false
+  xy: 912, 148
+  size: 159, 123
+  orig: 159, 123
+  offset: 0, 0
+  index: -1
+bizipao3
+  rotate: false
+  xy: 1783, 369
+  size: 184, 141
+  orig: 184, 141
+  offset: 0, 0
+  index: -1
+bizipao4
+  rotate: false
+  xy: 1402, 348
+  size: 186, 162
+  orig: 186, 162
+  offset: 0, 0
+  index: -1
+bzp5
+  rotate: false
+  xy: 1073, 121
+  size: 152, 150
+  orig: 152, 150
+  offset: 0, 0
+  index: -1
+bzp6
+  rotate: false
+  xy: 688, 47
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 784, 68
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+huahua
+  rotate: true
+  xy: 568, 28
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 115
+  size: 449, 395
+  orig: 449, 395
+  offset: 0, 0
+  index: -1
+tui tui
+  rotate: false
+  xy: 1969, 430
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+wei ba
+  rotate: false
+  xy: 1209, 291
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+ww
+  rotate: false
+  xy: 912, 273
+  size: 295, 237
+  orig: 295, 237
+  offset: 0, 0
+  index: -1
+yh1
+  rotate: false
+  xy: 1590, 348
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: false
+  xy: 451, 0
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+ypa1
+  rotate: false
+  xy: 1590, 372
+  size: 191, 138
+  orig: 191, 138
+  offset: 0, 0
+  index: -1
+ypb1
+  rotate: false
+  xy: 1590, 372
+  size: 191, 138
+  orig: 191, 138
+  offset: 0, 0
+  index: -1
+ypa2
+  rotate: false
+  xy: 0, 6
+  size: 191, 107
+  orig: 191, 107
+  offset: 0, 0
+  index: -1
+ypb2
+  rotate: false
+  xy: 1209, 345
+  size: 191, 165
+  orig: 191, 165
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: true
+  xy: 193, 16
+  size: 97, 134
+  orig: 97, 134
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: false
+  xy: 451, 23
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+zzz
+  rotate: false
+  xy: 451, 141
+  size: 459, 369
+  orig: 459, 369
+  offset: 0, 0
+  index: -1

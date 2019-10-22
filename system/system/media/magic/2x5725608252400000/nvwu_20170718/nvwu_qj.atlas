@@ -1,0 +1,55 @@
+
+nvwu_qj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo1
+  rotate: true
+  xy: 360, 149
+  size: 97, 199
+  orig: 97, 199
+  offset: 0, 0
+  index: -1
+guihuo2
+  rotate: true
+  xy: 214, 23
+  size: 62, 134
+  orig: 62, 134
+  offset: 0, 0
+  index: -1
+guihuo3
+  rotate: true
+  xy: 561, 184
+  size: 62, 134
+  orig: 62, 134
+  offset: 0, 0
+  index: -1
+guihuo4
+  rotate: true
+  xy: 0, 0
+  size: 85, 212
+  orig: 85, 212
+  offset: 0, 0
+  index: -1
+zhi1
+  rotate: false
+  xy: 0, 87
+  size: 358, 416
+  orig: 358, 416
+  offset: 0, 0
+  index: -1
+zhi2
+  rotate: false
+  xy: 360, 248
+  size: 364, 255
+  orig: 364, 255
+  offset: 0, 0
+  index: -1
+zhi3
+  rotate: false
+  xy: 726, 389
+  size: 177, 114
+  orig: 177, 114
+  offset: 0, 0
+  index: -1

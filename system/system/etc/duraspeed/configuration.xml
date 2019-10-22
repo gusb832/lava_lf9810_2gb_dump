@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<!--Start: configure the white list APPS-->
+	<PlatformWhitelist>
+	  <App1>kr.hwangti.batterylog</App1>
+	  <App2>org.simalliance.openmobileapi.service</App2>
+	  <!-- Inone add start by suhuazhi -->
+	  <!-- add by guanyin for huaqin-->
+	  <App3>com.huaqin.runtime</App3>
+	  <!-- WeChat -->
+	  <App4>com.tencent.mm</App4>
+	  <!-- QQ -->
+	  <App5>com.tencent.mobileqq</App5>
+	  <App6>com.tencent.mobileqqi</App6>
+	  <App7>com.tencent.qqlite</App7>
+	  <!-- Whatsapp -->
+	  <App8>com.whatsapp</App8>
+	  <!-- LINE -->
+	  <App9>jp.naver.line.android</App9>
+	  <!-- Skype International -->
+	  <App10>com.skype.raider</App10>
+	  <!-- Skype China PlayStore -->
+	  <App11>com.skype.polaris</App11>
+	  <!-- Skype Only China Mainland -->
+	  <App12>com.skype.rover</App12>
+	  <!-- Viber -->
+	  <App13>com.viber.voip</App13>
+	  <!-- Facebook -->
+	  <App14>com.facebook.katana</App14>
+	  <App15>com.facebook.orca</App15>
+	  <App16>com.facebook.katana.stub</App16>
+	  <App17>com.facebook.services</App17>
+	  <App18>com.facebook.system</App18>
+	  <App19>com.facebook.appmanager</App19>
+	  <App20>com.facebook.mlite</App20>
+	  <App21>com.facebook.lite</App21>
+	  <App22>com.facebook.lite.stub</App22>
+	  <App23>com.facebook.deviceinfo</App23>
+	  <!-- Twitter -->
+	  <App24>com.twitter.android</App24>
+	  <App25>com.ino.faceunlock</App25>
+	  <App26>com.sec.android.app.shealth</App26>
+	  <App27>com.garmin.android.apps.connectmobile</App27>
+	  <App28>com.casio.watchplus</App28>
+	  <!-- BBM -->
+	  <App29>com.bbm</App29>
+	  <App30>com.bbm1</App30>
+	  <App31>com.bbm2</App31>
+	  <App32>com.bbm3</App32>
+	  <!-- Imo Messenger -->
+	  <App33>com.imo.android.imoim</App33>
+	  <!-- Hike Messenger -->
+	  <App34>com.bsb.hike</App34>
+	  <!-- AppLock Developer: DoMobile Lab -->
+	  <App35>com.domobile.applock</App35>
+	  <App36>com.domobile.applockwatcher</App36>
+	  <!-- AppLock Developer: Fotoable Inc -->
+	  <App37>com.fotoable.applock</App37>
+	  <!-- Apptwin -->
+	  <App38>com.vapp.aide.intl</App38>
+	  <App39>com.vapp.aide.intl.arm64</App39>
+	  <!-- Samsung -->
+	  <App40>com.samsung.accessory</App40>
+	  <App41>com.samsung.android.gearfit2plugin</App41>
+	  <!-- Outlook -->
+	  <App42>com.microsoft.office.outlook</App42>
+	  <!-- Instagram -->
+	  <App43>com.instagram.android</App43>
+	  <!-- Truecaller -->
+	  <App44>com.truecaller</App44>
+	  <!-- Paytm -->
+	  <App45>net.one97.paytm</App45>
+	  <!-- Hangouts -->
+	  <App46>com.xiaomi.hm.health</App46>
+	  <!-- Snapchat -->
+	  <App47>com.snapchat.android</App47>
+	  <!-- FotaClient -->
+	  <App48>com.adups.fota</App48>
+	  <!-- Mobikonnect -->
+	  <App49>in.a.mobikonnect</App49>
+	  <!-- SwiftKey -->
+	  <App50>com.touchtype.swiftkey</App50>
+	  <App51>com.swiftkey.swiftkeyconfigurator</App51>
+	  <!-- Jio 4G Voice -->
+	  <App52>com.jio.join</App52>
+	  <App53>com.android.lava.powersave</App53>
+	  <!-- Inone add end by suhuazhi -->
+	  <App54>com.turkcell.bip</App54>
+	  <App55>com.sgiggle.production</App55>
+	  <App56>com.abtnprojects.ambatana</App56>
+	  <App57>org.telegram.messenger</App57>
+	  <App58>de.shapeservices.impluslte</App58>
+	  <App59>com.instagram.direct</App59>
+	  <App60>com.tumblr</App60>
+	  <App61>com.linkedin.android</App61>
+	  <App62>com.pinterest</App62>
+	  <App63>com.reddit.frontpage</App63>
+	  <App64>com.joelapenna.foursquared</App64>
+	  <App65>com.yahoo.mobile.client.android.flickr</App65>
+	  <App66>com.sahibinden</App66>
+	  <App67>com.dogan.arabam</App67>
+	  <App68>com.dmall.mfandroid</App68>
+	  <App69>com.pozitron.hepsiburada</App69>
+	  <App70>com.mobisoft.morhipo</App70>
+	  <App71>trendyol.com</App71>
+	  <App72>com.amazon.mShop.android.shopping</App72>
+	  <App73>com.alibaba.aliexpresshd</App73>
+	  <App74>com.bitaksi.musteri</App74>
+	  <App75>ccom.spotify.music</App75>
+	  <App76>ru.yandex.yandexnavi</App76>
+	  <App77>com.dwarfplanet.bundle</App77>
+	  <App78>com.vodafone.selfservis</App78>
+	  <App79>com.ttech.android.onlineislem</App79>
+	  <App80>com.azarlive.android</App80>
+	  <App81>com.tinder</App81>
+	  <App82>com.tmob.AveaOIM</App82>
+	  <App83>com.huawei.bone</App83>
+	  <App84>com.kokteyl.mackolik</App84>
+	  <App85>com.garanti.cepsubesi</App85>
+	  <App86>com.rsuppert.mvagent</App86>
+	  <App87>com.uya.mus</App87>
+	  <App88>com.mobilexsoft.ezanvakti</App88>
+	  <App89>com.semerkand.semerkandtakvimi</App89>
+	  <App90>pedometer.steptracker.calorieburner.stepcounter</App90>
+	  <App91>denizbank.android</App91>
+	  <App92>com.zhiliaoapp.musically</App92>
+	  <App93>com.futurebits.intamessage.free</App93>
+	  <App94>com.ikinciyeni</App94>
+	  <App95>com.shazam.android</App95>
+	  <App96>com.samsung.android.app.watchmanager</App96>
+	  <App97>com.samsung.android.geargplugin</App97>
+	  <App98>com.samsung.android.gearoplugin</App98>
+	</PlatformWhitelist>
+ </configuration>
+	 

@@ -1,0 +1,81 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1501750951131",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1501750951144",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.26",
+      "radius_y": "0.26",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1501750951167",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.25",
+      "radius_y": "0.25",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1501750958782",
+      "name": "yidian",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone8_290": "290",
+          "bone9_0": "0",
+          "bone_390": "390"
+        },
+        "spine_name": "yidian"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

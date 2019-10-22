@@ -1,0 +1,83 @@
+
+tt_cfq_x.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sai hong
+  rotate: false
+  xy: 668, 53
+  size: 373, 417
+  orig: 373, 417
+  offset: 0, 0
+  index: -1
+wang
+  rotate: false
+  xy: 0, 0
+  size: 666, 470
+  orig: 666, 470
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 1493, 217
+  size: 423, 253
+  orig: 423, 253
+  offset: 0, 0
+  index: -1
+za1
+  rotate: false
+  xy: 1043, 64
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+za2
+  rotate: true
+  xy: 1918, 307
+  size: 163, 123
+  orig: 163, 123
+  offset: 0, 0
+  index: -1
+za3
+  rotate: true
+  xy: 1373, 66
+  size: 162, 113
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+za4
+  rotate: false
+  xy: 1652, 133
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 1043, 230
+  size: 448, 240
+  orig: 448, 240
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 1208, 105
+  size: 163, 123
+  orig: 163, 123
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 1488, 102
+  size: 162, 113
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+zb4
+  rotate: false
+  xy: 1789, 133
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+g_laldui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1490, 1480
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 81, 224
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 46, 200
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 0, 0
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 1541, 1493
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 0, 191
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 0, 46
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1490, 1409
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1490, 1355
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 46, 147
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 0, 118
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 1578, 1515
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 0, 282
+  size: 1488, 1280
+  orig: 1488, 1280
+  offset: 0, 0
+  index: -1

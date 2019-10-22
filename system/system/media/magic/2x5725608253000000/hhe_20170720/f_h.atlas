@@ -1,0 +1,41 @@
+
+f_h.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fab01
+  rotate: false
+  xy: 0, 0
+  size: 538, 392
+  orig: 538, 392
+  offset: 0, 0
+  index: -1
+fab02
+  rotate: false
+  xy: 540, 0
+  size: 538, 392
+  orig: 538, 392
+  offset: 0, 0
+  index: -1
+fab03
+  rotate: false
+  xy: 1080, 0
+  size: 538, 392
+  orig: 538, 392
+  offset: 0, 0
+  index: -1
+hd
+  rotate: false
+  xy: 1620, 0
+  size: 538, 392
+  orig: 538, 392
+  offset: 0, 0
+  index: -1
+xiangquan
+  rotate: false
+  xy: 2160, 201
+  size: 382, 191
+  orig: 382, 191
+  offset: 0, 0
+  index: -1

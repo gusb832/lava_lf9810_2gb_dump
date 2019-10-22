@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ jinzilong 2018.12.12 create
+ Default grant application dangerous permissions
+-->
+<permissions>
+    <systemapp-permissions package="com.android.launcher3">
+        <permission name="android.permission.SEND_SMS"/>
+        <permission name="android.permission.READ_SMS"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_CALL_LOG"/>
+    </systemapp-permissions>
+</permissions>

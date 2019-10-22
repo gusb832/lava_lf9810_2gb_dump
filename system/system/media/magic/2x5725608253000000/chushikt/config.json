@@ -1,0 +1,96 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "mask1499667891676",
+      "fps": "25",
+      "loop": "1",
+      "images": [
+        "cusisaihong.png"
+      ],
+      "typemesh": "facemeshoutline",
+      "subType": "static",
+      "type": "mask",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "m1499672643086",
+      "loop": "1",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "subType": "eventDriven",
+      "type": "morph",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25"
+    },
+    {
+      "id": "w1499672674624",
+      "index": "130",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1499672679136",
+      "index": "320",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91",
+      "subType": "2",
+      "type": "distortion"
+    },
+    {
+      "id": "w1499675768743",
+      "name": "chishikat",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_50": "50",
+          "bone3_190": "190",
+          "bone3_260": "260",
+          "bone_100": "100"
+        },
+        "spine_name": "chishikat"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "face",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

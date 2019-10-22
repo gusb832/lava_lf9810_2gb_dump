@@ -1,0 +1,90 @@
+
+f_shouw.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 616, 801
+  size: 704, 179
+  orig: 704, 179
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 0, 516
+  size: 614, 464
+  orig: 614, 464
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 0, 83
+  size: 391, 189
+  orig: 391, 189
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 616, 470
+  size: 329, 384
+  orig: 329, 384
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 0, 0
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1723, 899
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 1322, 837
+  size: 399, 143
+  orig: 399, 143
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 0, 274
+  size: 542, 240
+  orig: 542, 240
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 544, 337
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 544, 201
+  size: 349, 134
+  orig: 349, 134
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 1002, 450
+  size: 349, 138
+  orig: 349, 138
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 1142, 421
+  size: 378, 136
+  orig: 378, 136
+  offset: 0, 0
+  index: -1

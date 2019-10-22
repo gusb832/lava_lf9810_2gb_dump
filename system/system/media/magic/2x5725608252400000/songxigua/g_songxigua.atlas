@@ -1,0 +1,27 @@
+
+g_songxigua.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gua1
+  rotate: false
+  xy: 0, 0
+  size: 312, 193
+  orig: 312, 193
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 454, 68
+  size: 143, 125
+  orig: 143, 125
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 314, 61
+  size: 138, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1

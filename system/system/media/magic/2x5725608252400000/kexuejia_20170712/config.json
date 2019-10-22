@@ -1,0 +1,49 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1498210239655",
+      "name": "kexuejia",
+      "type": "anim",
+      "subType": "face",
+      "fps": "60",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_190": "190",
+          "bone_260": "260"
+        },
+        "spine_name": "kexuejia"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1499852076171",
+      "type": "mask",
+      "subType": "static",
+      "fps": "25",
+      "loop": "1",
+      "typemesh": "facemeshoutline",
+      "images": [
+        "kxj.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

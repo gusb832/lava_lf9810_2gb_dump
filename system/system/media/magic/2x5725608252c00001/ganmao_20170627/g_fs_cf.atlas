@@ -1,0 +1,20 @@
+
+g_fs_cf.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 0, 0
+  size: 1200, 498
+  orig: 1200, 498
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 1202, 333
+  size: 720, 165
+  orig: 720, 165
+  offset: 0, 0
+  index: -1

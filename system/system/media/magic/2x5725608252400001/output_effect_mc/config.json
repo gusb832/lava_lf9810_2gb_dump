@@ -1,0 +1,47 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "mask01",
+            "images": [
+                "dhz.png"
+            ],
+            "mappings": {
+                "dhz.png": "/Users/wangyukun/Downloads/dhz.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone3_50": "50",
+                    "bone4_240": "240",
+                    "bone_190": "190"
+                },
+                "spine_name": "mc"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

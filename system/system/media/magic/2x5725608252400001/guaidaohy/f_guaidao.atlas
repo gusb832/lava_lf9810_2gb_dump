@@ -1,0 +1,55 @@
+
+f_guaidao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d7
+  rotate: false
+  xy: 810, 157
+  size: 76, 166
+  orig: 76, 166
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 0, 0
+  size: 564, 447
+  orig: 564, 447
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 884, 367
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 566, 102
+  size: 204, 77
+  orig: 204, 77
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 566, 7
+  size: 93, 182
+  orig: 93, 182
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 566, 181
+  size: 242, 142
+  orig: 242, 142
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 566, 325
+  size: 316, 122
+  orig: 316, 122
+  offset: 0, 0
+  index: -1

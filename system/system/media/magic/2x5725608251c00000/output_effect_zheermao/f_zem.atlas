@@ -1,0 +1,34 @@
+
+f_zem.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: false
+  xy: 628, 102
+  size: 297, 104
+  orig: 297, 104
+  offset: 0, 0
+  index: -1
+er1
+  rotate: false
+  xy: 0, 0
+  size: 312, 206
+  orig: 312, 206
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 314, 0
+  size: 312, 206
+  orig: 312, 206
+  offset: 0, 0
+  index: -1
+ts
+  rotate: false
+  xy: 628, 25
+  size: 209, 75
+  orig: 209, 75
+  offset: 0, 0
+  index: -1

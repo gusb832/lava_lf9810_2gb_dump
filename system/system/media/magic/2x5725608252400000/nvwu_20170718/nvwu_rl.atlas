@@ -1,0 +1,48 @@
+
+nvwu_rl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 0, 240
+  size: 220, 150
+  orig: 220, 150
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 671, 779
+  size: 211, 144
+  orig: 211, 144
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 0, 392
+  size: 669, 531
+  orig: 669, 531
+  offset: 0, 0
+  index: -1
+nnn
+  rotate: true
+  xy: 0, 0
+  size: 238, 107
+  orig: 238, 107
+  offset: 0, 0
+  index: -1
+ya1
+  rotate: false
+  xy: 222, 368
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+ya2
+  rotate: false
+  xy: 671, 754
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1

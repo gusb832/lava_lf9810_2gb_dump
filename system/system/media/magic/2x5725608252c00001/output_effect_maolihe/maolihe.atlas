@@ -1,0 +1,132 @@
+
+maolihe.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BOx4
+  rotate: false
+  xy: 3603, 1000
+  size: 387, 413
+  orig: 387, 413
+  offset: 0, 0
+  index: -1
+images/BOx5
+  rotate: false
+  xy: 3603, 1415
+  size: 393, 593
+  orig: 393, 593
+  offset: 0, 0
+  index: -1
+images/BOx7
+  rotate: false
+  xy: 452, 214
+  size: 438, 512
+  orig: 438, 512
+  offset: 0, 0
+  index: -1
+images/Box6
+  rotate: false
+  xy: 0, 113
+  size: 450, 613
+  orig: 450, 613
+  offset: 0, 0
+  index: -1
+images/MEW
+  rotate: true
+  xy: 3886, 874
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+images/dian1
+  rotate: false
+  xy: 1435, 728
+  size: 1082, 1280
+  orig: 1082, 1280
+  offset: 0, 0
+  index: -1
+images/dian2
+  rotate: false
+  xy: 2519, 728
+  size: 1082, 1280
+  orig: 1082, 1280
+  offset: 0, 0
+  index: -1
+images/fensedi
+  rotate: false
+  xy: 0, 728
+  size: 1433, 1280
+  orig: 1433, 1280
+  offset: 0, 0
+  index: -1
+images/mao1
+  rotate: false
+  xy: 892, 238
+  size: 274, 240
+  orig: 274, 240
+  offset: 0, 0
+  index: -1
+images/mao2
+  rotate: false
+  xy: 1168, 486
+  size: 274, 240
+  orig: 274, 240
+  offset: 0, 0
+  index: -1
+images/maojiao
+  rotate: false
+  xy: 892, 480
+  size: 274, 246
+  orig: 274, 246
+  offset: 0, 0
+  index: -1
+images/maoshenzi
+  rotate: false
+  xy: 3603, 764
+  size: 281, 234
+  orig: 281, 234
+  offset: 0, 0
+  index: -1
+images/xin1
+  rotate: false
+  xy: 0, 0
+  size: 140, 111
+  orig: 140, 111
+  offset: 0, 0
+  index: -1
+images/xin2
+  rotate: false
+  xy: 1444, 640
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+images/youbanshou
+  rotate: false
+  xy: 452, 126
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 3992, 1312
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+images/zuobanshou
+  rotate: false
+  xy: 1168, 401
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: true
+  xy: 3998, 1906
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+f_songxigua.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 945, 107
+  size: 402, 91
+  orig: 402, 91
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 554, 93
+  size: 389, 105
+  orig: 389, 105
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 554, 1
+  size: 397, 90
+  orig: 397, 90
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 1349, 104
+  size: 397, 94
+  orig: 397, 94
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 953, 12
+  size: 376, 93
+  orig: 376, 93
+  offset: 0, 0
+  index: -1
+tousheng
+  rotate: false
+  xy: 0, 0
+  size: 552, 198
+  orig: 552, 198
+  offset: 0, 0
+  index: -1

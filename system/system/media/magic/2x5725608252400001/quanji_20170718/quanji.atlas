@@ -1,0 +1,83 @@
+
+quanji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai1
+  rotate: true
+  xy: 388, 104
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+bai2
+  rotate: false
+  xy: 810, 399
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+bai3
+  rotate: false
+  xy: 720, 241
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+pen2a
+  rotate: false
+  xy: 258, 19
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+pen2b
+  rotate: false
+  xy: 720, 420
+  size: 153, 86
+  orig: 153, 86
+  offset: 0, 0
+  index: -1
+shang1
+  rotate: true
+  xy: 0, 0
+  size: 102, 143
+  orig: 102, 143
+  offset: 0, 0
+  index: -1
+shang2
+  rotate: true
+  xy: 145, 3
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+uuu
+  rotate: true
+  xy: 875, 421
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 720, 307
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+youquan
+  rotate: false
+  xy: 388, 153
+  size: 330, 353
+  orig: 330, 353
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: false
+  xy: 0, 104
+  size: 386, 402
+  orig: 386, 402
+  offset: 0, 0
+  index: -1
