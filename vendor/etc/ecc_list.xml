@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category (From 3GPP TS24.008)
+            - Bit 1 (1): Police
+            - Bit 2 (2): Ambulance
+            - Bit 3 (4): Fire Brigade
+            - Bit 4 (8): Marine Guard
+            - Bit 5 (16): Mountain Rescue
+            - Bit 6 (32): Manually initiated eCall
+            - Bit 7 (64): Automatically initiated eCall
+            - Bit 8 (128): is spare and set to "0"
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+
+
+    <!-- international emergency number -->
+    <EccEntry Ecc="112" Category="0" Condition="1" />
+    <EccEntry Ecc="911" Category="0" Condition="1" />
+
+    <!-- Add for China -->
+    <EccEntry Ecc="110" Category="0" Condition="2" Plmn = "460 FFF" />
+    <EccEntry Ecc="119" Category="0" Condition="2" Plmn = "460 FFF" />
+    <EccEntry Ecc="120" Category="0" Condition="2" Plmn = "460 FFF" />
+    <EccEntry Ecc="122" Category="0" Condition="2" Plmn = "460 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "460 FFF" />
+
+    <!-- Add for Thailand -->
+    <EccEntry Ecc="191" Category="0" Condition="2" Plmn = "520 FFF" />
+    <EccEntry Ecc="199" Category="0" Condition="2" Plmn = "520 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "520 FFF" />
+    
+    <!-- Add for CT VOLTE requirement -->
+    <EccEntry Ecc="110" Category="1" Condition="1" Plmn = "460 11" />
+    <EccEntry Ecc="119" Category="4" Condition="1" Plmn = "460 11" />
+    <EccEntry Ecc="120" Category="2" Condition="1" Plmn = "460 11" />
+    <EccEntry Ecc="122" Category="8" Condition="1" Plmn = "460 11" />
+
+    <!-- Add 999 for HK, 999 is ISO ECC in HK but no retry will be performed
+         for ISO ECC, add ECC config to workaround.
+    -->
+    <EccEntry Ecc="999" Category="0" Condition="1" Plmn = "454 03" />
+
+    <!-- Add for Malaysis Digi operator -->
+    <EccEntry Ecc="999" Category="0" Condition="1" Plmn = "502 FFF" />
+
+    <!-- Add for Bangladesh -->
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "470 FFF" />
+
+    <!-- Add for Nepal -->
+    <EccEntry Ecc="100" Category="0" Condition="2" Plmn = "429 FFF" />
+    <EccEntry Ecc="101" Category="0" Condition="2" Plmn = "429 FFF" />
+    <EccEntry Ecc="102" Category="0" Condition="2" Plmn = "429 FFF" />
+    <EccEntry Ecc="103" Category="0" Condition="2" Plmn = "429 FFF" />
+
+    <!-- Add for Dubai -->
+    <EccEntry Ecc="991" Category="0" Condition="2" Plmn = "424 FFF" />
+    <EccEntry Ecc="997" Category="0" Condition="2" Plmn = "424 FFF" />
+    <EccEntry Ecc="998" Category="0" Condition="2" Plmn = "424 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "424 FFF" />
+
+    <!-- Add for indonesia -->
+    <EccEntry Ecc="110" Category="0" Condition="2" Plmn = "510 FFF" />
+    <EccEntry Ecc="113" Category="0" Condition="2" Plmn = "510 FFF" />
+    <EccEntry Ecc="115" Category="0" Condition="2" Plmn = "510 FFF" />
+    <EccEntry Ecc="118" Category="0" Condition="2" Plmn = "510 FFF" />
+
+    <!-- Add for Srilanka -->
+    <EccEntry Ecc="110" Category="0" Condition="2" Plmn = "413 FFF" />
+    <EccEntry Ecc="118" Category="0" Condition="2" Plmn = "413 FFF" />
+    <EccEntry Ecc="119" Category="0" Condition="2" Plmn = "413 FFF" />
+
+    <!-- Add for Saudi Arabia -->
+    <EccEntry Ecc="997" Category="0" Condition="2" Plmn = "420 FFF" />
+    <EccEntry Ecc="998" Category="0" Condition="2" Plmn = "420 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "420 FFF" />
+
+    <!-- Add for Mexico -->
+    <EccEntry Ecc="060" Category="0" Condition="2" Plmn = "334 FFF" />
+    <EccEntry Ecc="065" Category="0" Condition="2" Plmn = "334 FFF" />
+    <EccEntry Ecc="066" Category="0" Condition="2" Plmn = "334 FFF" />
+    <EccEntry Ecc="068" Category="0" Condition="2" Plmn = "334 FFF" />
+
+    <!-- Add for Myanmar -->
+    <EccEntry Ecc="191" Category="0" Condition="2" Plmn = "414 FFF" />
+    <EccEntry Ecc="192" Category="0" Condition="2" Plmn = "414 FFF" />
+    <EccEntry Ecc="199" Category="0" Condition="2" Plmn = "414 FFF" />
+
+    <!-- Add for sudan -->
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "634 FFF" />
+
+    <!-- Add for Zambia -->
+    <EccEntry Ecc="992" Category="0" Condition="2" Plmn = "645 FFF" />
+    <EccEntry Ecc="993" Category="0" Condition="2" Plmn = "645 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "645 FFF" />
+
+    <!-- Add for Mozambique -->
+    <EccEntry Ecc="117" Category="0" Condition="2" Plmn = "643 FFF" />
+    <EccEntry Ecc="119" Category="0" Condition="2" Plmn = "643 FFF" />
+    <EccEntry Ecc="198" Category="0" Condition="2" Plmn = "643 FFF" />
+
+    <!-- Add for Madagascar -->
+    <EccEntry Ecc="117" Category="0" Condition="2" Plmn = "646 FFF" />
+    <EccEntry Ecc="118" Category="0" Condition="2" Plmn = "646 FFF" />
+    <EccEntry Ecc="124" Category="0" Condition="2" Plmn = "646 FFF" />
+
+    <!-- Add for Zimbabwe -->
+    <EccEntry Ecc="993" Category="0" Condition="2" Plmn = "648 FFF" />
+    <EccEntry Ecc="994" Category="0" Condition="2" Plmn = "648 FFF" />
+    <EccEntry Ecc="995" Category="0" Condition="2" Plmn = "648 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "648 FFF" />
+
+    <!-- Add for Malawi -->
+    <EccEntry Ecc="990" Category="0" Condition="2" Plmn = "650 FFF" />
+    <EccEntry Ecc="997" Category="0" Condition="2" Plmn = "650 FFF" />
+    <EccEntry Ecc="998" Category="0" Condition="2" Plmn = "650 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "650 FFF" />
+
+    <!-- Add for Congo King -->
+    <EccEntry Ecc="118" Category="0" Condition="2" Plmn = "630 FFF" />
+
+    <!-- Add for Botswana -->
+    <EccEntry Ecc="911" Category="0" Condition="2" Plmn = "652 FFF" />
+    <EccEntry Ecc="997" Category="0" Condition="2" Plmn = "652 FFF" />
+    <EccEntry Ecc="998" Category="0" Condition="2" Plmn = "652 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "652 FFF" />
+
+    <!-- Add for Tanzania -->
+    <EccEntry Ecc="114" Category="0" Condition="2" Plmn = "640 FFF" />
+    <EccEntry Ecc="115" Category="0" Condition="2" Plmn = "640 FFF" />
+    <EccEntry Ecc="999" Category="0" Condition="2" Plmn = "640 FFF" />
+
+</EccTable>
